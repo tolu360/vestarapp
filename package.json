@@ -9,7 +9,7 @@
 	"dependencies": {
 		"react": "16.0.0",
 		"react-native": "0.50.3",
-		"react-native-paystack": "file:/Users/tolu360/Code/react-native-paystack"
+		"react-native-paystack": "^3.1.4"
 	},
 	"devDependencies": {
 		"babel-jest": "21.2.0",

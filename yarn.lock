@@ -3296,8 +3296,9 @@ react-devtools-core@^2.5.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
-"react-native-paystack@file:/Users/tolu360/Code/react-native-paystack":
-  version "3.1.4.2"
+react-native-paystack@^3.1.4:
+  version "3.1.4"
+  resolved "https://registry.yarnpkg.com/react-native-paystack/-/react-native-paystack-3.1.4.tgz#e04a3f7f1872c2ef60fd43a686f12312dee13e18"
 
 react-native@0.50.3:
   version "0.50.3"

@@ -19,7 +19,7 @@
 {
   NSURL *jsCodeLocation;
 
-  [Paystack setDefaultPublicKey:@"pk_test_0e9ce97308ed77731314aff6cb253e11bfa140f0"];
+  [Paystack setDefaultPublicKey:@"pk_test_0e9ce97308ed77731314aff6cb253e11bfa140z0"];
 
   jsCodeLocation = [[RCTBundleURLProvider sharedSettings] jsBundleURLForBundleRoot:@"index" fallbackResource:nil];
 
